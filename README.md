@@ -1,3 +1,6 @@
+![Next-js-14-Education-Website-Using-Tailwind-CSS](https://github.com/user-attachments/assets/d1ee10a9-93e4-4a96-884e-96cb531f5425)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
